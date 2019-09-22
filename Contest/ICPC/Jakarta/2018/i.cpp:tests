@@ -1,8 +1,0 @@
-[
-	{
-		"test": "4\nLIE\nLIE\nTRUTH\nTRUTH\n"
-	},
-	{
-		"test": "3\nLIE\nLIE\nLIE\n"
-	}
-]
